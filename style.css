@@ -1,0 +1,26 @@
+body{
+    background-color: #191036;
+    color: white;
+    font-family: "Playwrite IS", cursive;
+}
+h1{
+    font-size: 55px;
+
+} 
+
+p{
+    font-size: 30px;
+}
+
+a{
+    font-size: 30px;
+    text-decoration: none;
+    color: #ab93fa;
+    font-weight: bolder;
+    
+}
+
+a:hover{
+    color:#805df3;
+}
+
