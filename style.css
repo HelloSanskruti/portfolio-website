@@ -1,6 +1,6 @@
 body{
-    background-color: #191036;
-    color: beige;
+    background-color: #4C6444;
+    color: #CABA9C;
     font-family: "Playwrite IS", cursive;
 }
 h1{
@@ -15,13 +15,13 @@ p{
 a{
     font-size: 30px;
     text-decoration: none;
-    color: #ab93fa;
+    color: #5c3216;
     font-weight: bolder;
     
 }
 
 a:hover{
-    color:#805df3;
+    color:#8A6240;
 }
 
 *{
